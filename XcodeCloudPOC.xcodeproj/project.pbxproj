@@ -7,61 +7,61 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		CD9AA47E2BA3FDE000D4BBD6 /* XcodeCloudPOCApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD9AA47D2BA3FDE000D4BBD6 /* XcodeCloudPOCApp.swift */; };
-		CD9AA4802BA3FDE000D4BBD6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD9AA47F2BA3FDE000D4BBD6 /* ContentView.swift */; };
-		CD9AA4822BA3FDE200D4BBD6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CD9AA4812BA3FDE200D4BBD6 /* Assets.xcassets */; };
-		CD9AA4852BA3FDE200D4BBD6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CD9AA4842BA3FDE200D4BBD6 /* Preview Assets.xcassets */; };
-		CD9AA48F2BA3FDE300D4BBD6 /* XcodeCloudPOCTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD9AA48E2BA3FDE300D4BBD6 /* XcodeCloudPOCTests.swift */; };
-		CD9AA4992BA3FDE300D4BBD6 /* XcodeCloudPOCUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD9AA4982BA3FDE300D4BBD6 /* XcodeCloudPOCUITests.swift */; };
-		CD9AA49B2BA3FDE300D4BBD6 /* XcodeCloudPOCUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD9AA49A2BA3FDE300D4BBD6 /* XcodeCloudPOCUITestsLaunchTests.swift */; };
+		CD6390552BA83434007A77ED /* XcodeCloudPOCApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD6390542BA83434007A77ED /* XcodeCloudPOCApp.swift */; };
+		CD6390572BA83434007A77ED /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD6390562BA83434007A77ED /* ContentView.swift */; };
+		CD6390592BA83435007A77ED /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CD6390582BA83435007A77ED /* Assets.xcassets */; };
+		CD63905C2BA83435007A77ED /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CD63905B2BA83435007A77ED /* Preview Assets.xcassets */; };
+		CD6390662BA83435007A77ED /* XcodeCloudPOCTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD6390652BA83435007A77ED /* XcodeCloudPOCTests.swift */; };
+		CD6390702BA83435007A77ED /* XcodeCloudPOCUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD63906F2BA83435007A77ED /* XcodeCloudPOCUITests.swift */; };
+		CD6390722BA83435007A77ED /* XcodeCloudPOCUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD6390712BA83435007A77ED /* XcodeCloudPOCUITestsLaunchTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		CD9AA48B2BA3FDE300D4BBD6 /* PBXContainerItemProxy */ = {
+		CD6390622BA83435007A77ED /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = CD9AA4722BA3FDE000D4BBD6 /* Project object */;
+			containerPortal = CD6390492BA83434007A77ED /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = CD9AA4792BA3FDE000D4BBD6;
+			remoteGlobalIDString = CD6390502BA83434007A77ED;
 			remoteInfo = XcodeCloudPOC;
 		};
-		CD9AA4952BA3FDE300D4BBD6 /* PBXContainerItemProxy */ = {
+		CD63906C2BA83435007A77ED /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = CD9AA4722BA3FDE000D4BBD6 /* Project object */;
+			containerPortal = CD6390492BA83434007A77ED /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = CD9AA4792BA3FDE000D4BBD6;
+			remoteGlobalIDString = CD6390502BA83434007A77ED;
 			remoteInfo = XcodeCloudPOC;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		CD9AA47A2BA3FDE000D4BBD6 /* XcodeCloudPOC.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = XcodeCloudPOC.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		CD9AA47D2BA3FDE000D4BBD6 /* XcodeCloudPOCApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XcodeCloudPOCApp.swift; sourceTree = "<group>"; };
-		CD9AA47F2BA3FDE000D4BBD6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		CD9AA4812BA3FDE200D4BBD6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		CD9AA4842BA3FDE200D4BBD6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		CD9AA48A2BA3FDE300D4BBD6 /* XcodeCloudPOCTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = XcodeCloudPOCTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		CD9AA48E2BA3FDE300D4BBD6 /* XcodeCloudPOCTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XcodeCloudPOCTests.swift; sourceTree = "<group>"; };
-		CD9AA4942BA3FDE300D4BBD6 /* XcodeCloudPOCUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = XcodeCloudPOCUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		CD9AA4982BA3FDE300D4BBD6 /* XcodeCloudPOCUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XcodeCloudPOCUITests.swift; sourceTree = "<group>"; };
-		CD9AA49A2BA3FDE300D4BBD6 /* XcodeCloudPOCUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XcodeCloudPOCUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		CD6390512BA83434007A77ED /* XcodeCloudPOC.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = XcodeCloudPOC.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		CD6390542BA83434007A77ED /* XcodeCloudPOCApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XcodeCloudPOCApp.swift; sourceTree = "<group>"; };
+		CD6390562BA83434007A77ED /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		CD6390582BA83435007A77ED /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		CD63905B2BA83435007A77ED /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		CD6390612BA83435007A77ED /* XcodeCloudPOCTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = XcodeCloudPOCTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		CD6390652BA83435007A77ED /* XcodeCloudPOCTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XcodeCloudPOCTests.swift; sourceTree = "<group>"; };
+		CD63906B2BA83435007A77ED /* XcodeCloudPOCUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = XcodeCloudPOCUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		CD63906F2BA83435007A77ED /* XcodeCloudPOCUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XcodeCloudPOCUITests.swift; sourceTree = "<group>"; };
+		CD6390712BA83435007A77ED /* XcodeCloudPOCUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XcodeCloudPOCUITestsLaunchTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		CD9AA4772BA3FDE000D4BBD6 /* Frameworks */ = {
+		CD63904E2BA83434007A77ED /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		CD9AA4872BA3FDE300D4BBD6 /* Frameworks */ = {
+		CD63905E2BA83435007A77ED /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		CD9AA4912BA3FDE300D4BBD6 /* Frameworks */ = {
+		CD6390682BA83435007A77ED /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -71,58 +71,58 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		CD9AA4712BA3FDE000D4BBD6 = {
+		CD6390482BA83434007A77ED = {
 			isa = PBXGroup;
 			children = (
-				CD9AA47C2BA3FDE000D4BBD6 /* XcodeCloudPOC */,
-				CD9AA48D2BA3FDE300D4BBD6 /* XcodeCloudPOCTests */,
-				CD9AA4972BA3FDE300D4BBD6 /* XcodeCloudPOCUITests */,
-				CD9AA47B2BA3FDE000D4BBD6 /* Products */,
+				CD6390532BA83434007A77ED /* XcodeCloudPOC */,
+				CD6390642BA83435007A77ED /* XcodeCloudPOCTests */,
+				CD63906E2BA83435007A77ED /* XcodeCloudPOCUITests */,
+				CD6390522BA83434007A77ED /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		CD9AA47B2BA3FDE000D4BBD6 /* Products */ = {
+		CD6390522BA83434007A77ED /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				CD9AA47A2BA3FDE000D4BBD6 /* XcodeCloudPOC.app */,
-				CD9AA48A2BA3FDE300D4BBD6 /* XcodeCloudPOCTests.xctest */,
-				CD9AA4942BA3FDE300D4BBD6 /* XcodeCloudPOCUITests.xctest */,
+				CD6390512BA83434007A77ED /* XcodeCloudPOC.app */,
+				CD6390612BA83435007A77ED /* XcodeCloudPOCTests.xctest */,
+				CD63906B2BA83435007A77ED /* XcodeCloudPOCUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		CD9AA47C2BA3FDE000D4BBD6 /* XcodeCloudPOC */ = {
+		CD6390532BA83434007A77ED /* XcodeCloudPOC */ = {
 			isa = PBXGroup;
 			children = (
-				CD9AA47D2BA3FDE000D4BBD6 /* XcodeCloudPOCApp.swift */,
-				CD9AA47F2BA3FDE000D4BBD6 /* ContentView.swift */,
-				CD9AA4812BA3FDE200D4BBD6 /* Assets.xcassets */,
-				CD9AA4832BA3FDE200D4BBD6 /* Preview Content */,
+				CD6390542BA83434007A77ED /* XcodeCloudPOCApp.swift */,
+				CD6390562BA83434007A77ED /* ContentView.swift */,
+				CD6390582BA83435007A77ED /* Assets.xcassets */,
+				CD63905A2BA83435007A77ED /* Preview Content */,
 			);
 			path = XcodeCloudPOC;
 			sourceTree = "<group>";
 		};
-		CD9AA4832BA3FDE200D4BBD6 /* Preview Content */ = {
+		CD63905A2BA83435007A77ED /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				CD9AA4842BA3FDE200D4BBD6 /* Preview Assets.xcassets */,
+				CD63905B2BA83435007A77ED /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		CD9AA48D2BA3FDE300D4BBD6 /* XcodeCloudPOCTests */ = {
+		CD6390642BA83435007A77ED /* XcodeCloudPOCTests */ = {
 			isa = PBXGroup;
 			children = (
-				CD9AA48E2BA3FDE300D4BBD6 /* XcodeCloudPOCTests.swift */,
+				CD6390652BA83435007A77ED /* XcodeCloudPOCTests.swift */,
 			);
 			path = XcodeCloudPOCTests;
 			sourceTree = "<group>";
 		};
-		CD9AA4972BA3FDE300D4BBD6 /* XcodeCloudPOCUITests */ = {
+		CD63906E2BA83435007A77ED /* XcodeCloudPOCUITests */ = {
 			isa = PBXGroup;
 			children = (
-				CD9AA4982BA3FDE300D4BBD6 /* XcodeCloudPOCUITests.swift */,
-				CD9AA49A2BA3FDE300D4BBD6 /* XcodeCloudPOCUITestsLaunchTests.swift */,
+				CD63906F2BA83435007A77ED /* XcodeCloudPOCUITests.swift */,
+				CD6390712BA83435007A77ED /* XcodeCloudPOCUITestsLaunchTests.swift */,
 			);
 			path = XcodeCloudPOCUITests;
 			sourceTree = "<group>";
@@ -130,13 +130,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		CD9AA4792BA3FDE000D4BBD6 /* XcodeCloudPOC */ = {
+		CD6390502BA83434007A77ED /* XcodeCloudPOC */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = CD9AA49E2BA3FDE300D4BBD6 /* Build configuration list for PBXNativeTarget "XcodeCloudPOC" */;
+			buildConfigurationList = CD6390752BA83435007A77ED /* Build configuration list for PBXNativeTarget "XcodeCloudPOC" */;
 			buildPhases = (
-				CD9AA4762BA3FDE000D4BBD6 /* Sources */,
-				CD9AA4772BA3FDE000D4BBD6 /* Frameworks */,
-				CD9AA4782BA3FDE000D4BBD6 /* Resources */,
+				CD63904D2BA83434007A77ED /* Sources */,
+				CD63904E2BA83434007A77ED /* Frameworks */,
+				CD63904F2BA83434007A77ED /* Resources */,
 			);
 			buildRules = (
 			);
@@ -144,69 +144,69 @@
 			);
 			name = XcodeCloudPOC;
 			productName = XcodeCloudPOC;
-			productReference = CD9AA47A2BA3FDE000D4BBD6 /* XcodeCloudPOC.app */;
+			productReference = CD6390512BA83434007A77ED /* XcodeCloudPOC.app */;
 			productType = "com.apple.product-type.application";
 		};
-		CD9AA4892BA3FDE300D4BBD6 /* XcodeCloudPOCTests */ = {
+		CD6390602BA83435007A77ED /* XcodeCloudPOCTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = CD9AA4A12BA3FDE300D4BBD6 /* Build configuration list for PBXNativeTarget "XcodeCloudPOCTests" */;
+			buildConfigurationList = CD6390782BA83435007A77ED /* Build configuration list for PBXNativeTarget "XcodeCloudPOCTests" */;
 			buildPhases = (
-				CD9AA4862BA3FDE300D4BBD6 /* Sources */,
-				CD9AA4872BA3FDE300D4BBD6 /* Frameworks */,
-				CD9AA4882BA3FDE300D4BBD6 /* Resources */,
+				CD63905D2BA83435007A77ED /* Sources */,
+				CD63905E2BA83435007A77ED /* Frameworks */,
+				CD63905F2BA83435007A77ED /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				CD9AA48C2BA3FDE300D4BBD6 /* PBXTargetDependency */,
+				CD6390632BA83435007A77ED /* PBXTargetDependency */,
 			);
 			name = XcodeCloudPOCTests;
 			productName = XcodeCloudPOCTests;
-			productReference = CD9AA48A2BA3FDE300D4BBD6 /* XcodeCloudPOCTests.xctest */;
+			productReference = CD6390612BA83435007A77ED /* XcodeCloudPOCTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		CD9AA4932BA3FDE300D4BBD6 /* XcodeCloudPOCUITests */ = {
+		CD63906A2BA83435007A77ED /* XcodeCloudPOCUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = CD9AA4A42BA3FDE300D4BBD6 /* Build configuration list for PBXNativeTarget "XcodeCloudPOCUITests" */;
+			buildConfigurationList = CD63907B2BA83435007A77ED /* Build configuration list for PBXNativeTarget "XcodeCloudPOCUITests" */;
 			buildPhases = (
-				CD9AA4902BA3FDE300D4BBD6 /* Sources */,
-				CD9AA4912BA3FDE300D4BBD6 /* Frameworks */,
-				CD9AA4922BA3FDE300D4BBD6 /* Resources */,
+				CD6390672BA83435007A77ED /* Sources */,
+				CD6390682BA83435007A77ED /* Frameworks */,
+				CD6390692BA83435007A77ED /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				CD9AA4962BA3FDE300D4BBD6 /* PBXTargetDependency */,
+				CD63906D2BA83435007A77ED /* PBXTargetDependency */,
 			);
 			name = XcodeCloudPOCUITests;
 			productName = XcodeCloudPOCUITests;
-			productReference = CD9AA4942BA3FDE300D4BBD6 /* XcodeCloudPOCUITests.xctest */;
+			productReference = CD63906B2BA83435007A77ED /* XcodeCloudPOCUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		CD9AA4722BA3FDE000D4BBD6 /* Project object */ = {
+		CD6390492BA83434007A77ED /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1500;
 				LastUpgradeCheck = 1500;
 				TargetAttributes = {
-					CD9AA4792BA3FDE000D4BBD6 = {
+					CD6390502BA83434007A77ED = {
 						CreatedOnToolsVersion = 15.0;
 					};
-					CD9AA4892BA3FDE300D4BBD6 = {
+					CD6390602BA83435007A77ED = {
 						CreatedOnToolsVersion = 15.0;
-						TestTargetID = CD9AA4792BA3FDE000D4BBD6;
+						TestTargetID = CD6390502BA83434007A77ED;
 					};
-					CD9AA4932BA3FDE300D4BBD6 = {
+					CD63906A2BA83435007A77ED = {
 						CreatedOnToolsVersion = 15.0;
-						TestTargetID = CD9AA4792BA3FDE000D4BBD6;
+						TestTargetID = CD6390502BA83434007A77ED;
 					};
 				};
 			};
-			buildConfigurationList = CD9AA4752BA3FDE000D4BBD6 /* Build configuration list for PBXProject "XcodeCloudPOC" */;
+			buildConfigurationList = CD63904C2BA83434007A77ED /* Build configuration list for PBXProject "XcodeCloudPOC" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -214,36 +214,36 @@
 				en,
 				Base,
 			);
-			mainGroup = CD9AA4712BA3FDE000D4BBD6;
-			productRefGroup = CD9AA47B2BA3FDE000D4BBD6 /* Products */;
+			mainGroup = CD6390482BA83434007A77ED;
+			productRefGroup = CD6390522BA83434007A77ED /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				CD9AA4792BA3FDE000D4BBD6 /* XcodeCloudPOC */,
-				CD9AA4892BA3FDE300D4BBD6 /* XcodeCloudPOCTests */,
-				CD9AA4932BA3FDE300D4BBD6 /* XcodeCloudPOCUITests */,
+				CD6390502BA83434007A77ED /* XcodeCloudPOC */,
+				CD6390602BA83435007A77ED /* XcodeCloudPOCTests */,
+				CD63906A2BA83435007A77ED /* XcodeCloudPOCUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		CD9AA4782BA3FDE000D4BBD6 /* Resources */ = {
+		CD63904F2BA83434007A77ED /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CD9AA4852BA3FDE200D4BBD6 /* Preview Assets.xcassets in Resources */,
-				CD9AA4822BA3FDE200D4BBD6 /* Assets.xcassets in Resources */,
+				CD63905C2BA83435007A77ED /* Preview Assets.xcassets in Resources */,
+				CD6390592BA83435007A77ED /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		CD9AA4882BA3FDE300D4BBD6 /* Resources */ = {
+		CD63905F2BA83435007A77ED /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		CD9AA4922BA3FDE300D4BBD6 /* Resources */ = {
+		CD6390692BA83435007A77ED /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -253,49 +253,49 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		CD9AA4762BA3FDE000D4BBD6 /* Sources */ = {
+		CD63904D2BA83434007A77ED /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CD9AA4802BA3FDE000D4BBD6 /* ContentView.swift in Sources */,
-				CD9AA47E2BA3FDE000D4BBD6 /* XcodeCloudPOCApp.swift in Sources */,
+				CD6390572BA83434007A77ED /* ContentView.swift in Sources */,
+				CD6390552BA83434007A77ED /* XcodeCloudPOCApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		CD9AA4862BA3FDE300D4BBD6 /* Sources */ = {
+		CD63905D2BA83435007A77ED /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CD9AA48F2BA3FDE300D4BBD6 /* XcodeCloudPOCTests.swift in Sources */,
+				CD6390662BA83435007A77ED /* XcodeCloudPOCTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		CD9AA4902BA3FDE300D4BBD6 /* Sources */ = {
+		CD6390672BA83435007A77ED /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CD9AA4992BA3FDE300D4BBD6 /* XcodeCloudPOCUITests.swift in Sources */,
-				CD9AA49B2BA3FDE300D4BBD6 /* XcodeCloudPOCUITestsLaunchTests.swift in Sources */,
+				CD6390702BA83435007A77ED /* XcodeCloudPOCUITests.swift in Sources */,
+				CD6390722BA83435007A77ED /* XcodeCloudPOCUITestsLaunchTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		CD9AA48C2BA3FDE300D4BBD6 /* PBXTargetDependency */ = {
+		CD6390632BA83435007A77ED /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = CD9AA4792BA3FDE000D4BBD6 /* XcodeCloudPOC */;
-			targetProxy = CD9AA48B2BA3FDE300D4BBD6 /* PBXContainerItemProxy */;
+			target = CD6390502BA83434007A77ED /* XcodeCloudPOC */;
+			targetProxy = CD6390622BA83435007A77ED /* PBXContainerItemProxy */;
 		};
-		CD9AA4962BA3FDE300D4BBD6 /* PBXTargetDependency */ = {
+		CD63906D2BA83435007A77ED /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = CD9AA4792BA3FDE000D4BBD6 /* XcodeCloudPOC */;
-			targetProxy = CD9AA4952BA3FDE300D4BBD6 /* PBXContainerItemProxy */;
+			target = CD6390502BA83434007A77ED /* XcodeCloudPOC */;
+			targetProxy = CD63906C2BA83435007A77ED /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		CD9AA49C2BA3FDE300D4BBD6 /* Debug */ = {
+		CD6390732BA83435007A77ED /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -358,7 +358,7 @@
 			};
 			name = Debug;
 		};
-		CD9AA49D2BA3FDE300D4BBD6 /* Release */ = {
+		CD6390742BA83435007A77ED /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -414,7 +414,7 @@
 			};
 			name = Release;
 		};
-		CD9AA49F2BA3FDE300D4BBD6 /* Debug */ = {
+		CD6390762BA83435007A77ED /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -425,6 +425,7 @@
 				DEVELOPMENT_TEAM = T33R9WA623;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = XcodeCloudPOC;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -437,13 +438,16 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.XcodeCloudPOC.XcodeCloudPOC;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
-		CD9AA4A02BA3FDE300D4BBD6 /* Release */ = {
+		CD6390772BA83435007A77ED /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -454,6 +458,7 @@
 				DEVELOPMENT_TEAM = T33R9WA623;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = XcodeCloudPOC;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -466,13 +471,16 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.XcodeCloudPOC.XcodeCloudPOC;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
-		CD9AA4A22BA3FDE300D4BBD6 /* Debug */ = {
+		CD6390792BA83435007A77ED /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -485,14 +493,17 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.XcodeCloudPOC.XcodeCloudPOCTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/XcodeCloudPOC.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/XcodeCloudPOC";
 			};
 			name = Debug;
 		};
-		CD9AA4A32BA3FDE300D4BBD6 /* Release */ = {
+		CD63907A2BA83435007A77ED /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -505,14 +516,17 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.XcodeCloudPOC.XcodeCloudPOCTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/XcodeCloudPOC.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/XcodeCloudPOC";
 			};
 			name = Release;
 		};
-		CD9AA4A52BA3FDE300D4BBD6 /* Debug */ = {
+		CD63907C2BA83435007A77ED /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -523,14 +537,17 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.XcodeCloudPOC.XcodeCloudPOCUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 				TEST_TARGET_NAME = XcodeCloudPOC;
 			};
 			name = Debug;
 		};
-		CD9AA4A62BA3FDE300D4BBD6 /* Release */ = {
+		CD63907D2BA83435007A77ED /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -541,9 +558,12 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.XcodeCloudPOC.XcodeCloudPOCUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 				TEST_TARGET_NAME = XcodeCloudPOC;
 			};
 			name = Release;
@@ -551,43 +571,43 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		CD9AA4752BA3FDE000D4BBD6 /* Build configuration list for PBXProject "XcodeCloudPOC" */ = {
+		CD63904C2BA83434007A77ED /* Build configuration list for PBXProject "XcodeCloudPOC" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				CD9AA49C2BA3FDE300D4BBD6 /* Debug */,
-				CD9AA49D2BA3FDE300D4BBD6 /* Release */,
+				CD6390732BA83435007A77ED /* Debug */,
+				CD6390742BA83435007A77ED /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		CD9AA49E2BA3FDE300D4BBD6 /* Build configuration list for PBXNativeTarget "XcodeCloudPOC" */ = {
+		CD6390752BA83435007A77ED /* Build configuration list for PBXNativeTarget "XcodeCloudPOC" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				CD9AA49F2BA3FDE300D4BBD6 /* Debug */,
-				CD9AA4A02BA3FDE300D4BBD6 /* Release */,
+				CD6390762BA83435007A77ED /* Debug */,
+				CD6390772BA83435007A77ED /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		CD9AA4A12BA3FDE300D4BBD6 /* Build configuration list for PBXNativeTarget "XcodeCloudPOCTests" */ = {
+		CD6390782BA83435007A77ED /* Build configuration list for PBXNativeTarget "XcodeCloudPOCTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				CD9AA4A22BA3FDE300D4BBD6 /* Debug */,
-				CD9AA4A32BA3FDE300D4BBD6 /* Release */,
+				CD6390792BA83435007A77ED /* Debug */,
+				CD63907A2BA83435007A77ED /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		CD9AA4A42BA3FDE300D4BBD6 /* Build configuration list for PBXNativeTarget "XcodeCloudPOCUITests" */ = {
+		CD63907B2BA83435007A77ED /* Build configuration list for PBXNativeTarget "XcodeCloudPOCUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				CD9AA4A52BA3FDE300D4BBD6 /* Debug */,
-				CD9AA4A62BA3FDE300D4BBD6 /* Release */,
+				CD63907C2BA83435007A77ED /* Debug */,
+				CD63907D2BA83435007A77ED /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = CD9AA4722BA3FDE000D4BBD6 /* Project object */;
+	rootObject = CD6390492BA83434007A77ED /* Project object */;
 }
